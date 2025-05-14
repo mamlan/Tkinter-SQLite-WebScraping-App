@@ -1,6 +1,4 @@
-
-
-**Problem** **1** **\[20** **points\]** **(Utsha)**
+# Problem 1# **1** **\[20** **points\]** **(Utsha)**
 
 In this exercise, you will enhance the Movie List program by improving
 its delete command and by adding a min command that lets the user view
@@ -26,6 +24,7 @@ movie if the user enters "y" to confirm the operation.
 
 > 1
 >
+
 > Computing<img src="./r3u10vag.png"
 > style="width:7.08333in;height:3.3125in" />
 
@@ -57,7 +56,7 @@ testing your code. **So** **don’t** **include** **the** **database**
 
 > 2
 >
- Computing
+
 
 **Point** **Distribution:**
 
@@ -72,13 +71,12 @@ testing your code. **So** **don’t** **include** **the** **database**
 > \- display_movies_by_minutes() : 4 points
 
 
-
 > 3
 >
 
 > Computing<img src="./tn3o0zjg.png" style="width:6.5in;height:2.03125in" />
 
-**Problem** **2** **\[20** **points\]** **(Utsha)**
+# Problem # **2** **\[20** **points\]** **(Utsha)**
 
 In this exercise, you'll create a Future Value program that allows you
 to make two side-by-side calculations in the same window. When you're
@@ -121,10 +119,9 @@ Requirements:
 > inputs
 
 
-
 > 4
 >
- Computing
+
 >
 > (e.g., non-numeric values or negative numbers).
 
@@ -145,14 +142,13 @@ Requirements:
 > \- The side-by-side calculators work separately : 3 points
 
 
-
 > 5
 >
 
 > Computing<img src="./qjhofumm.png"
 > style="width:3.47917in;height:1.95833in" /><img src="./01wcffa0.png" style="width:3.5in;height:1.96875in" />
 
-**Problem** **3** **\[25\]** **(Kushal)**
+# Problem # **3** **\[25\]** **(Kushal)**
 
 > Develop a GUI version of the Fuel Eﬃciency program. When you're done,
 > the GUI should look like one of the following based on the Measurement
@@ -162,7 +158,6 @@ Requirements:
 > or **Liters**
 >
 > **Per** **100** **KM(L/100km)** using the formulas:
-
 
 
 > 6
@@ -215,10 +210,9 @@ Requirements:
 > example), the input and output labels should update to reﬂect the
 
 
-
 > 7
 >
- Computing
+
 >
 > new (Metric) Mode, with distance and fuel inputs being “Kilometers
 > Driven” and “Liters of Fuel Used” and output being “Liters Per 100
@@ -241,7 +235,9 @@ Requirements:
 > **Problem3.tar.** **You** **will** **submit** **the** **ﬁnal**
 > **code** **as** **Problem3.zip.**
 >
-> **Problem** **4** **\[25** **points\]** **(Web** **Scraping:**
+---
+
+ # Problem # **4** **\[25** **points\]** **(Web** **Scraping:**
 > **Extracting** **Headlines)** **(Kushal)**
 >
 > Develop a Python script to scrape the **top** **headlines** from the
@@ -265,10 +261,9 @@ Requirements:
 > Month(string
 
 
-
 > 8
 >
- Computing
+
 >
 > with ﬁrst letter of abbreviated month name capital) day-of-month(1-31)
 > year(YYYY)\].
@@ -313,10 +308,9 @@ Requirements:
 > fetch, extract, and display headlines.
 
 
-
 > 9
 >
- Computing
+
 >
 > **Error** **Handling:**
 >
@@ -324,11 +318,3 @@ Requirements:
 > connection issues).
 >
 > ● Ensure the program doesn't crash if no headlines are found.
->
-> **Review** **the** **starter** **code** **for** **this** **problem,**
-> **Problem4_Starter.zip.** You will submit your solution as
-> Problem4.zip.
-
-
-
-> 10
